@@ -1,1 +1,4 @@
-# Library_Database_C-
+# Library Database in C++
+The library database is a program designed to allow users to remotely navigate and access information about books in the library. The user can further engage with the library by borrowing, returning, and donating books. Users can search for books using keywords, such as the book’s title, author, ISBN, or genre, and can then access information about the book, including its availability to borrow. In order to borrow and return books, the user must become a member of the library by inputting additional personal information. This allows the library database to keep track of member’s borrowing histories. Members are able to access their own borrowing history and check if they have any overdue books. This project’s goal is to provide a user-friendly, intuitive, and functional interface that allows one to navigate and engage with a library’s contents remotely.
+
+To run, simply type 'make all' and the program will commence.
